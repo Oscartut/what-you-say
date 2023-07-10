@@ -1,0 +1,15 @@
+ <p><a href="src/icons/fox.png" target="toon">Лисиця</a> |
+            <a href="src/icons/panda.png" target="toon">Панда</a></p>
+           <iframe src="src/icons/panda.png" 
+            width="128" height="128" name="toon">
+           </iframe>
+           
+   </div>
+
+    <img src="https://www.rgo.ru/sites/default/files/styles/head_image_article/public/node/59064/anna-politova-solnechnyy-ushishir-602387.jpg?itok=MUfUvPC9" alt="nature">
+
+   <hr> <!-- Элемент <hr> не парный (от англ. horizontal rule — горизонтальная линейка) рисует горизонтальную линию, которая по своему виду зависит от используемых параметров, а также браузера. -->
+
+   <form>
+        <input type="text" id="name"> <!-- Элементы форму могут иметь метки. Чтобы присвоить элементу метку, сначала к нему нужно добавить атрибут id. ID должен быть таким одним уникальным в коде -->
+        <label for="name">Name</label> <!-- 
